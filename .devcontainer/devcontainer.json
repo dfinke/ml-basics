@@ -4,7 +4,7 @@
   "dockerFile": "Dockerfile",
   
   // Install python extension"
-  "extensions":["ms-python.python"],
+  "extensions":["ms-python.python", "ms-vscode.powershell-preview"],
   
   //Use Python 3.5 environment by defualt
   "settings": {
